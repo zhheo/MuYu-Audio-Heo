@@ -31,7 +31,9 @@
 
 ## 音效添加申请
 
-如果你无法制作音效，也你可以在[issues](https://github.com/zhheo/MuYu-Audio-Heo/issues)中提交音效添加的请求
+如果你无法制作音效，也你可以在[issues](https://github.com/zhheo/MuYu-Audio-Heo/issues)或者向`zhheo@qq.com`发送邮件提交音效添加的请求
+
+## 音效投稿
 
 ## 版权
 

@@ -2,7 +2,7 @@
 name: 申请添加新的音效
 about: 使用此模板来申请新音效添加到音效库
 title: "[新音效申请] "
-labels: NewAudio
+labels: NeedAudio
 assignees: ''
 ---
 
