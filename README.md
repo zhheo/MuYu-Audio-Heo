@@ -35,6 +35,8 @@
 
 ## 音效投稿
 
+如果你有制作好的音效，但是不想创建自己的音效库，也可以投稿到官方库。你可以在[issues](https://github.com/zhheo/MuYu-Audio-Heo/issues)或者向`zhheo@qq.com`发送邮件提交。
+
 ## 版权
 
 此仓库中的音效如有版权相关争议，请到 [投诉申诉](https://wj.qq.com/s2/13520609/9410/) 进行反馈
