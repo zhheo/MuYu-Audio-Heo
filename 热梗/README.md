@@ -7,3 +7,5 @@
 | [Siuuu](/热梗/audios/Siuuu-1700722734.muyu) | C罗经典Siuuu   |   Heo     |
 | [给你俩窝窝](/热梗/audios/给你俩窝窝-1700723547.muyu) | 梅西经典语录   |   Heo     |
 | [潮汕老太太](/热梗/audios/潮汕老太太-1700793882.muyu) | 潮汕老太太 biu~~~ bang   |   Heo     |
+| [虎哥我tm来了](/热梗/audios/虎哥我tm来了-1700806982.muyu) | 东北往事虎哥我tm来辣   |   Heo     |
+| [虎哥独立宣言](/热梗/audios/虎哥独立宣言-1700807375.muyu) | 虎哥经典   |   Heo     |
