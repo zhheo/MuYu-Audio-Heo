@@ -6,11 +6,11 @@
 
 仓库中的音效最低[敲木鱼](https://apps.apple.com/cn/app/%E6%95%B2%E6%9C%A8%E9%B1%BC/id6443798663)应用版本要求为：
 
-- iOS：11.1（尚未发布）
-- iPadOS：11.1（尚未发布）
-- watchOS：11.1（尚未发布）
-- tvOS：暂不支持
-- macOS：暂不支持
+- iOS：11.1
+- iPadOS：11.1
+- watchOS：11.1
+- tvOS：敬请期待
+- macOS：敬请期待
 
 ## 下载方式
 
