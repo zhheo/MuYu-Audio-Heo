@@ -1,6 +1,8 @@
 # MuYu-Audio-Heo
 
-由Heo构建的自定义音效库，仅供学习交流使用。
+由Heo构建的自定义音效库，仅供学习交流使用，仅用于[敲木鱼](https://apps.apple.com/cn/app/%E6%95%B2%E6%9C%A8%E9%B1%BC/id6443798663)软件的功能演示使用。
+
+如果想自己创建音效，可以访问[自定义音效](https://muyu.zhheo.com/iOS/customAudio.html)了解。
 
 ## 最低版本
 
