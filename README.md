@@ -4,9 +4,9 @@
 
 如果想自己创建音效，可以访问[自定义音效](https://muyu.zhheo.com/iOS/customAudio.html)了解。
 
-## 最低版本
+## 兼容性
 
-仓库中的音效最低[敲木鱼](https://apps.apple.com/cn/app/%E6%95%B2%E6%9C%A8%E9%B1%BC/id6443798663)应用版本要求为：
+仓库中的音效[敲木鱼](https://apps.apple.com/cn/app/%E6%95%B2%E6%9C%A8%E9%B1%BC/id6443798663)应用版本要求为：
 
 - **iPhone**：v11.1+
 - **iPad**：v11.1+
