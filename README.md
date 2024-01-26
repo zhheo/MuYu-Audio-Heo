@@ -13,6 +13,7 @@
 - **Apple Watch**：v11.1+
 - **Apple TV**：敬请期待
 - **Mac**：v12.0+
+- **Apple Vision**: 敬请期待
 
 ## 下载方式
 
