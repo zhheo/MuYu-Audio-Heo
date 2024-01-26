@@ -11,9 +11,9 @@
 - **iPhone**：v11.1+
 - **iPad**：v11.1+
 - **Apple Watch**：v11.1+
-- **Apple TV**：敬请期待
+- **Apple TV**：暂未支持
 - **Mac**：v12.0+
-- **Apple Vision**: 敬请期待
+- **Apple Vision**: 暂未支持
 
 ## 下载方式
 
