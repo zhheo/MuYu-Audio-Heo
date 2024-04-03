@@ -10,3 +10,4 @@
 | [假面骑士555](/国际/audios/假面骑士555-1707296171.muyu) | 假面骑士变身音效（555）   |   Heo     |
 | [科比Man](/国际/audios/科比Man-1707729239.muyu) | 最Man的一集 man，what can I say，manba out   |   Heo     |
 | [OneMoreThing](/国际/audios/OneMoreThing-1708159725.muyu) | 回顾Apple高光时刻 | Heo |
+| [假面骑士Joker](/国际/audios/假面骑士Joker-1711937044.muyu) | 假面骑士Joker变身音效 | Heo |
