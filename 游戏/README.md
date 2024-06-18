@@ -9,3 +9,4 @@
 | [GTA5Wasted](/游戏/audios/GTA5Wasted-1706693764.muyu) | GTA5死亡音效Wasted | Heo |
 | [逆转裁判一斤鸭梨](/游戏/audios/逆转裁判一斤鸭梨-1711334066.muyu) | 逆转裁判游戏異議あり！（一斤鸭梨）原声 | Heo |
 | [曼波曼波](/游戏/audios/曼波曼波-1716780160.muyu) | 曼波曼波，赛马娘诗歌剧 | Heo |
+| [Apex碎甲](/游戏/audios/Apex碎甲-1718707466.muyu) | Apex引起舒适的碎甲音效助眠 | Heo |
